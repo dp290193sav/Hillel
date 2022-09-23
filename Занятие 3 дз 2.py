@@ -9,7 +9,6 @@ while True:
         print('Соррі що втручуюсь, не знаю про що йдеться мова, але подивіться серіал "Життя по виклику", він просто бомба!')
     elif 'бувай' in user_input.lower() or 'надобраніч' in user_input.lower() or 'гудбай' in user_input.lower() or 'до зустрічі' in user_input.lower():
         print('Побачимось у мережі, I"ll be back =)')
-
+        break
     else:
         print('Дуже цікаво, але, нажаль, ніфіга не зрозуміло :(')
-
