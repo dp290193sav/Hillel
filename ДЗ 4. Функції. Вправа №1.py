@@ -1,16 +1,14 @@
 usd = 43
 
 
-def my_function_uah(result):
-    new_item = float(input('Введите cумму UAH: '))
-    result = new_item / usd
-    return result
+def function_uah_to_usd():
+    user_input = float(input('Введите cумму UAH: '))
+    return user_input / usd
 
 
-def my_function_usd(result):
-    new_item_price = float(input('Введите сумму USD: '))
-    result = new_item_price * usd
-    return result
+def function_usd_to_uah():
+    user_input = float(input('Введите сумму USD: '))
+    return user_input * usd
 
 
 def display_menu():
@@ -28,9 +26,9 @@ while True:
     display_menu()
     z = input()
     if z == "1":
-        print(round(my_function_uah('result'), 2))
+        print(round(function_uah_to_usd(), 2))
     elif z == '2':
-        print(round(my_function_usd('result'), 2))
+        print(round(function_usd_to_uah(), 2))
     elif z == '3':
         break
 
