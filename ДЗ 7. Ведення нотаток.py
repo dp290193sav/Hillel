@@ -1,6 +1,5 @@
 add_my_list = []
 """add_my_list - пустоq список"""
-"""add_my_list - пустой список"""
 
 
 def add_menu(add_my_list):
@@ -11,6 +10,8 @@ def add_menu(add_my_list):
     y = input('Введіть нотатку: ')
     add_my_list.append(y)
     return add_my_list
+
+
 def earliest(add_my_list):
     """функция выводит сохраненные заметки в хронологическом порядке, от раннего к более позднему,
     принимает в себя список add_my_list
@@ -18,6 +19,8 @@ def earliest(add_my_list):
     print  выводим отсортированные заметки от раннего к более позднему на экран пользователю"""
     for i in add_my_list:
         print(i)
+
+
 def latest(add_my_list):
     """функция выводит сохраненные заметки в хронологическом порядке, от позднего к более раннему,
     принимает в себя список add_my_list
@@ -25,6 +28,10 @@ def latest(add_my_list):
     print  выводим отсортированные заметки от позднего к более раннему на экран пользователю"""
     for i in add_my_list[::-1]:
         print(i)
+
+
+
+
 def shortest(add_my_list):
     """функция выводит сохраненные заметки в порядке их длинны, от длинного к короткому,
          принимает в себя список add_my_list
@@ -35,6 +42,8 @@ def shortest(add_my_list):
     x = sorted(add_my_list, key=len)
     for element in x:
         print(element)
+
+
 def longest(add_my_list):
     """функция выводит сохраненные заметки в порядке их длинны, от короткого к длинному,
      принимает в себя список add_my_list
@@ -46,6 +55,8 @@ def longest(add_my_list):
     x = sorted(add_my_list, key=len, reverse=True)
     for element in x:
         print(element)
+
+
 def display_menu():
     """
     функция выводит на экран весь функционал программы
@@ -61,6 +72,8 @@ exit - завершення программи.\n
 Почніть роботу:''')
 menu = ''
 display_menu()
+
+
 if __name__ == '__main__':
     while True:
         """
