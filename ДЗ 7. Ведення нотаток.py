@@ -1,5 +1,5 @@
 add_my_list = []
-"""add_my_list - пустоq список"""
+"""add_my_list - пустой список"""
 
 
 def load_file():
