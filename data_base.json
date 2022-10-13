@@ -1,0 +1,59 @@
+{
+    "rating_of_boxers_by_version": [
+        {
+			"name":"Oleksandr Usyk",
+			"category":"wbo",
+			"rating":"champion"
+		},
+		{
+			"name":"Joe Joyce",
+			"category":"wbo",
+			"rating":"2"
+		},
+		{
+			"name":"Joseph Parker",
+			"category":"wbo",
+			"rating":"3"
+		},
+		{
+			"name":"Oleksandr Usyk",
+			"category":"ibf",
+			"rating":"champion"
+		},
+		{
+			"name":"Charles Martin",
+			"category":"ibf",
+			"rating":"1"
+		},
+		{
+			"name":"Filip Hrgovic",
+			"category":"ibf",
+			"rating":"2"
+		},
+		{
+			"name":"Michael Hunter",
+			"category":"ibf",
+			"rating":"3"
+		},
+		{
+			"name":"Oleksandr Usyk",
+			"category":"wba",
+			"rating":"super champion"
+		},
+		{
+			"name":"Daniel Dubois",
+			"category":"wba",
+			"rating":"1"
+		},
+		{
+			"name":"Michael Hunter",
+			"category":"wba",
+			"rating":"2"
+		},
+		{
+			"name":"Robert Helenius",
+			"category":"wba",
+			"rating":"3"
+		}
+	]
+}
