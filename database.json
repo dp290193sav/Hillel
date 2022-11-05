@@ -1,0 +1,59 @@
+[
+	"rating_of_boxers_by_version": [
+		{
+			"name":"Александр Усик",
+			"category":"wbo",
+			"rating":"champion"
+		},
+		{
+			"name":"Джо Джойс",
+			"category":"wbo",
+			"rating":"2"
+		},
+		{
+			"name":"Джозеф Паркер",
+			"category":"wbo",
+			"rating":"3"
+		},
+		{
+			"name":"Александр Усик",
+			"category":"ibf",
+			"rating":"champion"
+		},
+		{
+			"name":"Чарльз Мартин",
+			"category":"ibf",
+			"rating":"1"
+		},
+		{
+			"name":"Филип Хргович",
+			"category":"ibf",
+			"rating":"2"
+		},
+		{
+			"name":"Майкл Хантер",
+			"category":"ibf",
+			"rating":"3"
+		},
+		{
+			"name":"Александр Усик",
+			"category":"wba",
+			"rating":"super champion"
+		},
+		{
+			"name":"Дэниэл Дюбуа",
+			"category":"wba",
+			"rating":"1"
+		},
+		{
+			"name":"Майкл Хантер",
+			"category":"wba",
+			"rating":"2"
+		},
+		{
+			"name":"Роберт Хелениус",
+			"category":"wba",
+			"rating":"3"
+		}
+	]
+]

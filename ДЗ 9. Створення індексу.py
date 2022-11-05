@@ -33,7 +33,7 @@ data = json.load(open('data_base.json', mode='r'))
 uid_index = dict()
 category_index = dict()
 
-# Проходимся по данным каждоого боксера, что-бы привоить каждому уникальный id
+# Проходимся по данным каждоого боксера, что-бы приcвоить каждому уникальный id
 for boxer_data in data['rating_of_boxers_by_version']:
     # присваиваем каждому боксеру id
     boxer_data['uid'] = str(uuid4())
