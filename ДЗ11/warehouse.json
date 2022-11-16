@@ -1,0 +1,67 @@
+{
+	"warehouse": [
+		{
+			"category": "TV",
+			"name": "Samsung UE43AU7100UXUA",
+			"price": "18000",
+			"quantity": "2",
+			"diagonal": "43"
+		},
+		{
+			"category": "TV",
+			"name": "Philips 65PUS7556/12",
+			"price": "29999",
+			"quantity": "3",
+			"diagonal": "65"
+		},
+		{
+			"category": "TV",
+			"name": "LG 55UQ75006LF",
+			"price": "23499",
+			"quantity": "1",
+			"diagonal": "55"
+		},
+		{
+			"category": "TV",
+			"name": "Samsung UE32T5300AUXUA",
+			"price": "12899",
+			"quantity": "2",
+			"diagonal": "32"
+		},
+		{
+			"category": "Headset",
+			"name": "Razer Kraken V3",
+			"price": "2599",
+			"quantity": "2",
+			"type_name": "Overhead"
+		},
+		{
+			"category": "Headset",
+			"name": "Jabra Evolve 2 65, Link380a MS Stereo",
+			"price": "7349",
+			"quantity": "1",
+			"type_name": "Overhead"
+		},
+		{
+			"category": "Headset",
+			"name": "JBL TUNE 560 BT",
+			"price": "1299",
+			"quantity": "2",
+			"type_name": "Overhead"
+		},
+		{
+			"category": "Headset",
+			"name": "HyperX Cloud Buds",
+			"price": "2299",
+			"quantity": "3",
+			"type_name": "in-ear"
+		},
+		{
+			"category": "Headset",
+			"name": "Logitech G333 K/DA Gaming Earphones",
+			"price": "2399",
+			"quantity": "2",
+			"type_name": "in-ear"
+		}
+	]
+}
